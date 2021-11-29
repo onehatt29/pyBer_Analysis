@@ -10,5 +10,5 @@
 
 # The cities with more rural areas ridership is low therefore the drivers count is lower and fares are lower. 
 
-Cities2.PNG
+https://github.com/onehatt29/pyBer_Analysis/blob/73a2525e2efeaf99720cfe711ebff218ed86249c/Cities2.PNG
 
